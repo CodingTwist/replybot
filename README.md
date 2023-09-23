@@ -1,4 +1,4 @@
 # replybot
 A reply bot
 
-A dumb mod with everything hardcoding lol
+A dumb mod with everything hardcoded lol
